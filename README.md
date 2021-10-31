@@ -1,6 +1,6 @@
 # LaserRetro
 
-This is where I will put all of the files related to the LaserRetro cyberdeck. I have been working on this off and on since the end of 2020. This is lossely based on the design of the Laser computers from the early 80's. I acquired a Laser IV from a garage sale in the late 90's and recently found it again when moving. I thought the overal design aesthetic was cool (I love the V-Tech retro kids look) so I thought I would make something with a similar look but more functionality. I decided to based mine around an Intel NUC because I wanted to be able to do some dev work and emulate higher powered devices. It would be relatively trivial to modify this design to incorporate other CPUs (e.g. an RbPi4+). 
+This is where I will put all of the files related to the LaserRetro cyberdeck. I have been working on this off and on since the end of 2020. This is loosely based on the design of the Laser 50 computer from the early 80's. I acquired a Laser PC3 from a garage sale in the late 90's and recently found it again when moving. I thought the overal design aesthetic was cool (I love the V-Tech retro kids look) so I thought I would make something with a similar look but more functionality. I like the color scheme of the Laser 128 Apple clone as well so I am going with that color for the case. I decided to based mine around an Intel NUC because I wanted to be able to do some dev work and emulate higher powered devices. It would be relatively trivial to modify this design to incorporate other CPUs (e.g. an RbPi4+). 
 
 ## Build pictures
 
@@ -8,9 +8,11 @@ Here is where I have been gathering the pictures I have taken of the build so fa
 
 ## Features
 - High quality mechanical keyboard (XD75)
-- (Somewhat) drop resistance with interior metal frame
+- (Somewhat) drop resistant with interior metal frame
 - Several external ports (ethernet, HDMI, Thunderbolt, USB 3.0)
+- Lots of storage: NVMe, SATA and microSD
 - Battery or wall power with 8x internal 18650's
+- Good airflow with quiet operation under normal load
 - 19V power brick
 - Coming coon -- RetroCart slot!
 
